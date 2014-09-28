@@ -4,7 +4,7 @@
 #
 #################################################################################
 
-XBMC_VERSION = 867305b97e773186eec599d958bf2d0e2769da64
+XBMC_VERSION = 0f3db0516711e05765d297d060563730131c2f92
 XBMC_SITE_METHOD = git
 XBMC_SITE = https://github.com/bialagary/xbmc.git
 XBMC_INSTALL_STAGING = YES
